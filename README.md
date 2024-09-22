@@ -14,5 +14,5 @@ This takes a 'message.po' input, creates an 'messages_translated.po' output, and
 
 Customize input and output:
 ```
-python po-pre-translator.py --input messages.po --ouput messages_translated.po
+python po-pre-translator.py --input messages.po --output messages_translated.po
 ```
